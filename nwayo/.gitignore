@@ -1,0 +1,16 @@
+# Force files by default
+!.editorconfig
+!.eslintignore
+!.eslintrc.yaml
+!.stylelintignore
+!.stylelintrc.yaml
+!konstan.yaml
+!lodash.yaml
+!modernizr.yaml
+!nwayo.yaml
+!package.json
+
+# Exclude temporary
+.nwayo-cache
+node_modules
+npm-debug.log

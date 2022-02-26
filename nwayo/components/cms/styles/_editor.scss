@@ -1,0 +1,18 @@
+//-------------------------------------
+//-- CMS - Editor
+//-------------------------------------
+
+body {
+	width: 60em;
+	font-family: $common-text-font;
+	font-size: $common-text-base-size;
+	line-height: 1.3;
+}
+
+a {
+	text-decoration: none;
+
+	&:hover {
+		text-decoration: underline;
+	}
+}

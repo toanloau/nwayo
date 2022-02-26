@@ -1,0 +1,8 @@
+{
+  "name": "testabsolunet",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@absolunet/nwayo-workflow": "3.8.2"
+  }
+}

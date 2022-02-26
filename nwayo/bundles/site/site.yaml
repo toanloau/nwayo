@@ -1,0 +1,25 @@
+output:
+  konstan: ../pub/build
+  build: ../pub/build
+  url: /build
+assets:
+  components:
+    - common
+    - form
+    - site
+scripts:
+  options:
+    minify: false
+    babel:
+      - '> .25%'
+      - not dead
+  allowBabel:
+    - vendor/node_modules/foundation-sites
+    - vendor/node_modules/@absolunet
+styles:
+  options:
+    minify: false
+    sourcemaps: false
+    autoprefixer:
+      - '> .25%'
+      - not dead

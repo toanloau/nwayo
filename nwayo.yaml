@@ -1,0 +1,4 @@
+root: nwayo
+polyfill:
+  - '> .25%'
+  - not dead
