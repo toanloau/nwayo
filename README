@@ -1,2 +1,8 @@
 0. khi init project thì đã có thư mục này: vendor/package.json nó require 'foundation-sites', khi nào mình chạy lệnh nwayo install vendors thì nó sẽ lấy về thì phải.
 1. npm install -g @absolunet/nwayo-cli (chay lenh nay k thay thay doi j o tren git, no duong nhu la 1 tool của npm thoi)
+
+
+===========
+
+Tiep theo tim hieu cach override plugin megamenu (Quan trong de lam ticket)
+Tiếp theo tìm hiểu cách chạy cua task-run
